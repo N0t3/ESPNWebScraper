@@ -1,6 +1,7 @@
 Web Scraping and Google Sheets Integration
 
 This Python script scrapes game information from ESPN for various basketball leagues (NBA, NCAAM, NCAAW) and writes the data to a Google Sheets spreadsheet.
+
 Installation
 
 Clone this repository to your local machine.
