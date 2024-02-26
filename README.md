@@ -7,8 +7,8 @@ This Python script scrapes game information from ESPN for various basketball lea
 1. Clone this repository to your local machine.
 2. Install the required dependencies using pip:
 
+    ```
     pip install requests beautifulsoup4 google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
-
 
 ## Usage
 
